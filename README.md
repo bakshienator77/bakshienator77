@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI in Field Robotics<br>👯 I’m looking to collaborate on 3D Computer Vision<br>🤝 I’m looking for work in Computer Vision for Robotics<br>🌱 I’m currently learning Partially Observable Markov Decision Processes<br>💬 Ask me anything<br>📫 How to reach me: https://www.linkedin.com/in/nikhil-angad-bakshi/<br>😄 Pronouns: He/Him<br>⚡ Fun fact I have an anonymous Youtube channel with my band
+🔭 I’m currently working on AI in Field Robotics<br>👯 I’m looking to collaborate on 3D Computer Vision<br>🤝 I’m looking for work in Computer Vision for Robotics<br>🌱 I’m currently learning Partially Observable Markov Decision Processes<br>💬 Ask me anything<br>😄 Pronouns: He/Him<br>⚡ Fun fact I have an anonymous Youtube channel with my band
 
 
 ## 🌐 Socials:
