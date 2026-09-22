@@ -4,12 +4,12 @@ I build learning systems for robots and lead teams that turn research into worki
 
 I'm a **Founding Robotics ML Engineer at Tuesday Labs**, where I build reinforcement-learning and robot behavior systems for a home-tidying robot. Previously, at **Arena AI**, I led development of an AI hardware engineer and built multimodal representation-learning systems. My research at **Carnegie Mellon** focused on multi-robot search under uncertainty.
 
-[LinkedIn](https://www.linkedin.com/in/nikhil-angad-bakshi/) · [Google Scholar](https://scholar.google.com/citations?user=bZrOaXgAAAAJ) · [Email](mailto:nikhilangadbakshi@gmail.com)
+[Website](https://bakshienator77.github.io/) · [LinkedIn](https://www.linkedin.com/in/nikhil-angad-bakshi/) · [Google Scholar](https://scholar.google.com/citations?user=bZrOaXgAAAAJ)
 
 ## Selected work
 
 - **Building a home-tidying robot — Tuesday Labs.** First full-time hire; built the deep RL stack and led a software team of four through five prototype iterations. Developed locomotion and expressive robot behavior, and reduced hardware-validation cycles from weeks to one day.
-- **AI for hardware engineering — Arena AI.** Led development of an AI hardware engineer, with end-to-end ownership of a transformer-based multimodal representation-learning pipeline. [Project announcement and demos](https://www.linkedin.com/posts/nikhil-angad-bakshi_great-news-excited-to-be-leading-development-ugcPost-7315466445470019589-SeSo/).
+- **AI for hardware engineering — Arena AI.** Led development of an AI hardware engineer, with end-to-end ownership of a transformer-based multimodal representation-learning pipeline. [Project video and announcement](https://www.linkedin.com/posts/nikhil-angad-bakshi_great-news-excited-to-be-leading-development-ugcPost-7315466445470019589-SeSo/).
 - **Learning under uncertainty — CMU Robotics Institute.** Developed algorithms for decentralized search with heterogeneous teams of robots, connecting probabilistic decision-making with field robotics.
 
 ## Selected research
