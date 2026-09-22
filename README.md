@@ -16,8 +16,8 @@ I'm a **Founding Robotics ML Engineer at Tuesday Labs**, where I build reinforce
 
 **GUTS: Generalized Uncertainty-Aware Thompson Sampling for Multi-Agent Active Search**  
 Nikhil Angad Bakshi, Tejus Gupta, Ramina Ghods, Jeff Schneider · **ICRA 2023**  
-Multi-agent active search under uncertainty. Winner of the **Outstanding Deployed Systems Paper** award.  
-[Paper](https://arxiv.org/abs/2304.02075) · [Video](https://www.youtube.com/watch?v=9ZgbL5IEkAE) · [Award](https://www.ieee-ras.org/ras-congratulates-the-honorees-at-the-icra-2023-awards-ceremony/)
+Multi-agent active search under uncertainty. Winner of the **Outstanding Deployed Systems Paper** award. The GUTS implementation is included in the STAR repository as a state-of-the-art baseline for comparison.  
+[Paper](https://arxiv.org/abs/2304.02075) · [Video](https://www.youtube.com/watch?v=9ZgbL5IEkAE) · [Code](https://github.com/bakshienator77/Stealthy-Terrain-Aware-Reconnaissance-and-Search) · [Award](https://www.ieee-ras.org/ras-congratulates-the-honorees-at-the-icra-2023-awards-ceremony/)
 
 **Stealthy Terrain-Aware Multi-Agent Active Search (STAR)**  
 Nikhil Angad Bakshi, Jeff Schneider · **CoRL 2023**  
